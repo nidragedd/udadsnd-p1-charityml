@@ -1,0 +1,7 @@
+*/*.pyc
+*.pyc
+.idea/*
+venv/*
+**/__pycache__/
+example_submission.csv
+test_census.csv
