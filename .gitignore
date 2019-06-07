@@ -3,5 +3,8 @@
 .idea/*
 venv/*
 **/__pycache__/
+.ipynb_checkpoints
 example_submission.csv
 test_census.csv
+results_charity.ods
+submission*.csv
